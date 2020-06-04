@@ -1,0 +1,34 @@
+body{
+    background: linear-gradient(
+                rgba(0, 0, 0, 0.75),
+                rgba(0, 0, 0, 0.65)
+                ),url("images/salon.png")no-repeat;
+background-size: cover;
+color: white;
+}
+
+p{
+    text-align: center;
+    font-size: 60px;
+}
+
+#fin{
+    font-size: 70px;
+}
+
+input{
+    width: 13%;
+    padding: 2px;
+}
+
+#debut{
+    position: relative;
+    bottom: 15px;
+    left: 460px;
+}
+
+#recommencer{
+    position: relative;
+    bottom: 42px;
+    left: 690px;
+}

@@ -1,0 +1,106 @@
+body{
+    background: linear-gradient(#FF7F50 28%, #DAA520 10%);
+}
+
+img{
+    width: 5%;
+}
+
+#table{
+    width: 40%;
+    position: relative;
+    bottom: 200px;
+    left: 430px;
+}
+
+#tabouret{
+    width: 17%;
+    position: relative;
+    left: 800px;
+    top: 50px;
+}
+
+#chaise{
+    width: 22%;
+    position: relative;
+    left: 110px;
+    top: 80px;
+}
+
+#chaise2{
+    width: 22%;
+    position: relative;
+    left: 10px;
+    bottom: -50px;
+}
+
+#patate{
+    position: relative;
+    bottom: 480px;
+}
+
+#bouteille{
+    position: relative;
+    bottom: 480px;
+}
+
+#assiette{
+    width: 11%;
+    position: relative;
+    bottom: 480px;
+}
+
+#poulet{
+    width: 10%;
+    position: relative;
+    bottom: 500px;
+    right: 130px;
+}
+
+#eau{
+    position: relative;
+    bottom: 490px;
+    right: 150px;
+}
+
+#vin{
+    width: 3%;
+    position: relative;
+    bottom: 510px;
+    right: 460px;
+}
+
+#vin2{
+    width: 3%;
+    position: relative;
+    bottom: 520px;
+    right: 430px;
+}
+
+#cadre{
+    position: relative;
+    bottom: 600px;
+}
+
+#placard{
+    width: 20%;
+    position: relative;
+    bottom: 700px;
+}
+
+#placard2{
+    width: 25%;
+    position: relative;
+    bottom:700px;
+    left: 850px;
+}
+/*
+.elle{
+    color: #FFC0CB;
+}
+
+.moi{
+     color: #B0E0E6;
+}
+
+*/

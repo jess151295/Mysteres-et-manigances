@@ -1,0 +1,41 @@
+body{
+   background: linear-gradient(to bottom, #B0E0E6 23%, #9FE855 10%);
+}
+
+
+#maison{
+    width: 950px;
+    position: relative;
+    left: 15%;
+}
+
+#soleil{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    background-color: #FEF86C;
+    position: absolute;
+    bottom: 572px;
+    left: 960px;
+}
+
+#petite_maison{
+    width: 55px;
+    position: relative;
+    right: 870px;
+    bottom: 383px;
+}
+
+#petite_maison_2{
+    width: 25px;
+    position: relative;
+    right: 1000px;
+    bottom: 393px;
+}
+
+#arbre{
+    width: 25%;
+    position: relative;
+    left: 1050px;
+    bottom: 393px;
+}

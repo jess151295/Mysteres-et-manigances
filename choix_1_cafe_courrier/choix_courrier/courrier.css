@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+    background-image: url("images/salon.png");
+    background-repeat: no-repeat;
+}
+
+#cafe{
+    width: 6%;
+    position: relative;
+   top: 350px;
+   left: 590px;
+    }
+    
+#courrier{
+        width: 6%;
+        position: relative;
+       top: 378px;
+       left: 350px;
+    }
+    
+#enveloppe{
+        width: 3%;
+        position: relative;
+        top: 387px;
+        left: 427px;
+    }
+    
+#continuer{
+        position: relative;
+        top: 487px;
+        left: 600px;
+}

@@ -1,0 +1,64 @@
+body{
+background: linear-gradient(#A10684 50%, #9FE855 10%);
+    }
+    
+#bibliotheque{
+    width: 45%;
+    position: relative;
+    left: 23%;
+}
+
+#carton{
+    width: 30%;
+    position: relative;
+    left: 40%;
+}
+
+#carton2{
+    width: 20%;
+    position: relative;
+    left: 18%;
+    top: 15px;
+}
+
+#plante{
+    position: relative;
+    bottom: 370px;
+    right: 90px;
+}
+
+#livre{
+    width: 18%;
+    position: relative;
+    bottom: 416px;
+    left: 285px;
+}
+
+#livre2{
+    width: 18%;
+    position: relative;
+    bottom: 417px;
+    right: 75px;
+    transform: rotate(180deg);
+}
+
+#livre3{
+    width: 29%;
+    position: relative;
+    bottom: 550px;
+    right: 325px;
+}
+
+#livre4{
+    width: 20%;
+    position: relative;
+    bottom: 890px;
+    left: 540px;
+}
+
+#livre5{
+    width: 9%;
+    position: relative;
+    bottom: 910px;
+    left: 155px;
+}

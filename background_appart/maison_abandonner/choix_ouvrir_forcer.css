@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient(
+                rgba(0, 0, 0, 0.55),
+                rgba(0, 0, 0, 0.55)
+                ),url("images/bibliotheque_avec_livre.png")no-repeat;
+background-size: cover;
+color: white;
+}
+
+p{
+    font-size: 47px;
+}
+
+#livre{
+    width: 65%;
+    position: relative;
+    top: 100px;
+    left: 200px;
+}
+
+#photo{
+    width: 8%;
+    position: relative;
+    right: 310px;
+    bottom: 110px;
+    transform: rotate(-47deg);
+}

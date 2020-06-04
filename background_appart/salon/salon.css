@@ -1,0 +1,47 @@
+body{
+   background: linear-gradient(to bottom, #b22222 15%, #A0522D 10%);
+}
+img{
+   margin-left: 20%;
+}
+
+#fauteil1{
+    width: 35%;
+    position: relative;
+    bottom: 550px;
+    right: 360px;
+}
+#plante{
+    width: 20%;
+    position: relative;
+    bottom: 1000px;
+    left: 300px;
+}
+
+#horloge{
+    width: 7%;
+    position: relative;
+    bottom: 1090px;
+    right: 990px;
+}
+
+#lampe{
+    width: 12%;
+    position: relative;
+    bottom: 1150px;
+    left: 650px;
+}
+
+
+#cafe{
+    width: 5%;
+    position: relative;
+    bottom: 1050px;
+    right:510px;
+}
+
+#salon{
+    width: 20%;
+    position: relative;
+    bottom: 690px;
+}
