@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>les début de mon jeu</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="debut.css">
+</head>
+<body>
+    
+    <p>Quand j'avais 8 ans mes parents ont subitement disparu,
+    j'ai alors vécu chez mes grands-parents maternels.</p>
+    <p>J'ai eu une enfance paisible malgré le manque de mes parents.
+    Aujourd'hui j'ai 23 ans et je vie dans un petit appartement, j'ai un travail qui paye bien et des amis sincères.</p>
+    
+    <br/>
+    
+    <form method="post" action="choix_1_cafe_courrier/commencement.php">
+        <input type="submit" value="Continuer" name="btn" id="btn">
+    </form>
+    
+ <!--
+    <figure>
+               <audio autoplay muted controls loop src="musique/Quarkstar_-_solar_fractal_1-debut.mp3" >la musique</audio>
+    </figure>-->
+    
+</body>
+</html>
