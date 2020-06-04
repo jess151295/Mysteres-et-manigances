@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+p{
+    color: white;
+    text-align: center;
+    font-size: 50px;
+}
+
+input{
+    color: white;
+    font-size: 40px;
+}
+
+#btn{
+    color: black;
+    position: relative;
+    left: 43%;
+}
+
+#cafe{
+    margin: 50px;
+}

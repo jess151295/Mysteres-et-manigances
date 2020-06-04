@@ -1,0 +1,38 @@
+body{
+    animation: image 10s forwards;
+    color: white;
+}
+
+p{
+    text-align: center;
+    font-size: 28.5px;
+}
+
+@keyframes image{
+    0% {background:linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),url("images/bureau.png")no-repeat;}
+    100% {background: linear-gradient(rgba(0, 0, 0, 0.65), rgba(0, 0, 0, 0.65)),url("images/maison_abandonner.png")no-repeat;
+          background-size: cover;}
+}
+
+#fermer{
+position: relative; right: 1050px;
+animation: fermer 5s forwards;
+animation-delay: 3s;
+}
+
+@keyframes fermer{
+    0% {position: relative; right: inherit;}
+    100% {position: relative; right: inherit; font-size: 40px;}
+}
+
+
+#continuer{
+position: relative; right: 1000px;
+animation: btn 5s forwards;
+animation-delay: 1.5s;
+}
+
+@keyframes btn{
+    0% {position: relative; top: 50px; right: 1000px;}
+    100%{position: relative; top: 50px; left: 33%;}
+}

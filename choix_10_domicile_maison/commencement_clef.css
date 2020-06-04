@@ -1,0 +1,60 @@
+body{
+    background: linear-gradient(
+                rgba(0, 0, 0, 0.70),
+                rgba(0, 0, 0, 0.70)
+                ),url("images/salle_a_manger_g-p.png")no-repeat;
+background-size: cover;
+color: white;
+}
+
+p{
+    text-align: center;
+    font-size: 40px;
+}
+
+.choix{
+    margin-left: 8%;
+    font-size: 35px;
+}
+
+#domicile{
+     
+    position: relative;
+    left: 210px;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+#maison{
+
+    position: relative;
+    bottom: 217px;
+    left: 60%;
+}
+
+#maison_label{
+   
+    position: relative;
+    bottom: 210px;
+    left: 52%;
+}
+
+#domicile_label{
+    position: relative;
+    bottom: -10px;
+    left: 50px;
+}
+
+/*les boutons en eux meme*/
+input{
+    background-color:#808000;
+    font-size: 40px;
+    margin: 2%;
+}
+
+.btn{
+    color: #3CB371;
+    padding: 2%;
+    position: relative;
+    left: 200px;
+}

@@ -1,0 +1,58 @@
+body{
+    background: linear-gradient(
+                rgba(0, 0, 0, 0.75),
+                rgba(0, 0, 0, 0.65)
+                ),url("../background_appart/salon/images/salon.png")no-repeat;
+    color: white;
+}
+
+p{
+    text-align: center;
+    font-size: 55px;
+}
+
+.choix{
+    margin-left: 8%;
+    font-size: 35px;
+}
+
+#appeler{
+     
+    position: relative;
+    bottom: 30px;
+    left: 210px;
+}
+
+#aller{
+   
+    position: relative;
+    bottom: 234px;
+    left: 59%;
+}
+
+#aller_label{
+    
+    position: relative;
+    bottom: 220px;
+    left: 41%;
+}
+
+#appeler_label{
+    position: relative;
+    bottom: 10px;
+    left: 50px;
+}
+
+/*les boutons en eux meme*/
+input{
+    background-color:#808000;
+    font-size: 40px;
+    margin: 2%;
+}
+
+.btn{
+    color: #3CB371;
+    padding: 2%;
+    position: relative;
+    left: 200px;
+}

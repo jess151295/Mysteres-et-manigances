@@ -1,0 +1,62 @@
+body{
+    background: linear-gradient(
+                rgba(0, 0, 0, 0.65),
+                rgba(0, 0, 0, 0.65)
+                ),url("images/maison_g-p.png")no-repeat;
+background-size: cover;
+color: white;
+}
+
+p{
+
+    text-align: center;
+    font-size: 45px;
+}
+
+.choix{
+    margin-left: 8%;
+    font-size: 35px;
+}
+
+#garder{
+     
+    position: relative;
+    left: 210px;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+#demander{
+
+    position: relative;
+    bottom: 217px;
+    left: 65%;
+}
+
+#demander_label{
+   
+    position: relative;
+    bottom: 210px;
+    left: 46%;
+}
+
+#garder_label{
+    color: red;
+    position: relative;
+    bottom: -10px;
+    right: 60px;
+}
+
+/*les boutons en eux meme*/
+input{
+    background-color:#808000;
+    font-size: 40px;
+    margin: 2%;
+}
+
+.btn{
+    color: #3CB371;
+    padding: 2%;
+    position: relative;
+    left: 200px;
+}

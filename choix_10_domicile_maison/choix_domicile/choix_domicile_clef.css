@@ -1,0 +1,30 @@
+body{
+background-color: black;
+color: white;
+}
+
+p{
+    text-align: center;
+    font-size: 50px;
+}
+
+input{
+    width: 30%;
+}
+
+.continuer{
+    text-align: center;
+    font-size: 155%;
+    margin-left: 10%;
+    
+}
+
+#quete{
+    margin-top: 5%;
+}
+
+#retour{
+    position: relative;
+    bottom: 36px;
+    left: 660px;
+}
